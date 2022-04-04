@@ -1,0 +1,3 @@
+# Terraform-statefile
+Terraform state file 
+AWS EC2 instace with VPC,subnets,gateawy...
